@@ -1,2 +1,2 @@
-# DS3_Assignments
-A place for DS3 Assignments
+# Data Science
+A place for DS mini projects part of IC272 
